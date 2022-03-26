@@ -1,0 +1,84 @@
+body {
+  background-color:#dda15e;
+}
+.profilepic {margin-left: auto; margin-right: auto;display: block;padding-bottom: 10px;border-radius: 300px}
+h1 {
+  color: black;
+  text-align: center;
+  font-family: arial, sans-serif;
+}
+summary {
+  color: black;
+  font-family: arial, sans-serif;
+}
+section h1 {
+  font-size: 100px;
+  color: white;
+  margin-left: auto; margin-right: auto;
+  padding-bottom: 40px;
+  background-color: #808080;
+}
+section1 h1 {
+  font-size: 100px;
+  color: white;
+  margin-left: auto; margin-right: auto;
+  padding-bottom: 40px;
+  background-color: #808080;
+}
+section2 h1 {
+  font-size: 100px;
+  color: white;
+  margin-left: auto; margin-right: auto;
+  padding-bottom: 40px;
+  background-color: #808080;
+}
+section3 h1 {
+  font-size: 100px;
+  color: white;
+  margin-left: auto; margin-right: auto;
+  padding-bottom: 40px;
+  background-color: #808080;
+}
+h2 {
+  color: white;
+  font-family: arial, sans-serif;
+}
+p {
+  color: red;
+  font-family: arial, sans-serif;
+  font-size: 20px;
+}
+.personalinfo {margin-left: 350px; margin-top: 50px; position: fixed;}
+.idealjob {margin-left: 989px; margin-top: 50px; position: fixed;}
+.personality {margin-left: 380px; margin-top: 260px; position: fixed}
+.projectidea {margin-left: 989px; margin-top: 260px; position: fixed;}
+
+button {text-decoration: none; background-color: #d99549; color: #black; font-size: 19px;font-family: arial; padding: 10px 15px; text-align: center; display: inline-block; border-radius: 100px;
+ border: none;}
+button:hover,
+button:focus {
+    background: #808080;
+  color: black;}
+*{margin: 0;}
+
+footer {color: red;
+font-family: arial, sans-serif;
+font-size: 20px;
+margin-top:65px; text-align: center;}
+header {padding: 200px;}
+
+
+section {padding: 0px 200px 0px 200px; background: #dda15e;}
+section p {padding-left: 20px; padding-right: 20px; color: white; text-align: center; margin-left: auto; margin-right: auto; background-color: #808080;}
+
+section1 {padding: 250px 0px 25px 0px ;background: #dda15e;}
+section1 p {padding-top: 40px; padding-left: 250px; padding-right: 250px; padding-bottom: 40px; color: white; text-align: left; background-color: #808080;}
+section1 img{margin-left:650px; padding: 10px 10px 10px 10px ;background-color:#dda15e; }
+section1 summary {margin-left: 650px;padding:30px 0px 0px 10px }
+
+section2 {padding: 250px 0px 25px 0px ;background: #dda15e;}
+section2 p {padding-top: 40px; padding-left: 250px; padding-right: 250px; padding-bottom: 40px; color: white; text-align: left; background-color: #808080;}
+section2 img{margin-left:650px; padding:0px ;background-color:#dda15e; }
+
+section3 {padding: 0px 200px 0px 200px; background: #dda15e;}
+section3 p {padding-left: 10px; padding-right: 10px; color: white; text-align: center; margin-left: auto; margin-right: auto; background-color: #808080;}
